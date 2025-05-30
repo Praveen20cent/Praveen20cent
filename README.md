@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm Praveen K</h1>
-<p>I am pursuing my B.Tech degree in Computer Science and Engineering and I have some standard knowledge in those respective fields.</p>
-<p>I have been learning Full Stack Development for about 2 years.</p>
+<p>I'm a Computer Science student at Amrita Vishwa Vidyapeetham.</p>
+<p>I am currently working on Recshare, building a screen recording platform for college students.</p>
+<p>I'm looking to collaborate on Data science open source projects.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
